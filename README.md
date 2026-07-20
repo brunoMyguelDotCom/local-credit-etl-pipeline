@@ -944,5 +944,5 @@ if __name__ == "__main__":
 ---
 
 <p align="center">
-  Feito com muito <code>DataFrame.transform()</code>
+    Feito com ☕ e muito <code>DataFrame.transform()</code>
 </p>
